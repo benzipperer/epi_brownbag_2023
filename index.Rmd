@@ -241,6 +241,7 @@ Aaronson et al (2018) found minimum wages increase the number of US restaurants
   - Low-productivity employers may go out of business
   - But closures do not reduce worker incomes or employment levels
 
-
-
-
+---
+# Thank you!
+## Slides
+https://benzipperer.github.io/epi_brownbag_2023
